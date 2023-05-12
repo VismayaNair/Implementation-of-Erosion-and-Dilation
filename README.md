@@ -67,9 +67,7 @@ plt.axis('off')
 ## Output:
 
 ### Display the input Image
-<br>![1](https://github.com/VismayaNair/Implementation-of-Erosion-and-Dilation/assets/93427210/a15db014-5faa-40f2-b285-ea6d9bd03adf)
-
-<br>
+<br>![3](https://github.com/VismayaNair/Implementation-of-Erosion-and-Dilation/assets/93427210/4c2d64e7-b337-4b56-8c47-95d4c8528116)
 <br>
 <br>
 <br>
@@ -85,7 +83,7 @@ plt.axis('off')
 <br>
 
 ### Display the Dilated Image
-<br>![3](https://github.com/VismayaNair/Implementation-of-Erosion-and-Dilation/assets/93427210/4c2d64e7-b337-4b56-8c47-95d4c8528116)
+<br>![1](https://github.com/VismayaNair/Implementation-of-Erosion-and-Dilation/assets/93427210/a15db014-5faa-40f2-b285-ea6d9bd03adf)
 
 <br>
 <br>
